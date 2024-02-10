@@ -2287,6 +2287,7 @@ h5,
   .hero-wrap .slider-text .one-third {
     width: 100%;
     z-index: 0;
+    display: none;
   }
   .hero-wrap .slider-text .one-third .overlay {
     opacity: 0.3;
